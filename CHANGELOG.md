@@ -1,5 +1,10 @@
 
 
+###### 2017.01.06 [v2.0.004]
+
+Added additional bolts dependencies
+
+
 ###### 2016.02.05
 
 Updated SDK - iOS: v1.5.1 Android: v1.4.0
