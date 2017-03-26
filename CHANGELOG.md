@@ -1,5 +1,10 @@
 
 
+###### 2017.03.27 [v2.0.006]
+
+Updated SDK
+
+
 ###### 2017.01.06 [v2.0.004]
 
 Added additional bolts dependencies
