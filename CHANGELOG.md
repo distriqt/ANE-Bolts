@@ -1,5 +1,15 @@
 
 
+###### 2017.09.08 [v2.0.011]
+
+Latest update to match Facebook SDK v4.26.0
+
+
+###### 2017.03.27 [v2.0.006]
+
+Updated SDK
+
+
 ###### 2017.03.27 [v2.0.006]
 
 Updated SDK
