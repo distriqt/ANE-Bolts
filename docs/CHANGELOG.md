@@ -1,5 +1,10 @@
 
 
+###### 2018.02.20 [v2.1.015]
+
+Updated iOS lib to v1.8.4
+
+
 ###### 2017.11.16 [v2.0.012]
 
 Updated iOS framework for Facebook v4.28+
