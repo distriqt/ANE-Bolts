@@ -1,5 +1,12 @@
 
 
+###### 2018.11.02 [v2.1.017]
+
+```
+Updated iOS Bolts SDK
+```
+
+
 ###### 2018.02.20 [v2.1.015]
 
 Updated iOS lib to v1.8.4
